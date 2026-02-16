@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-02-16T06:08:45.578410+00:00",
+  "dataset": "fixed_20260216_073644",
+  "stats": {
+    "total": 61,
+    "categories": {
+      "Other": 34,
+      "Incidents & Vulns": 19,
+      "Product & Launches": 5,
+      "Policy & Governance": 2,
+      "Funding & Deals": 1
+    },
+    "top_category": "Other",
+    "high_risk_count": 5
+  },
+  "highlights": [
+    {
+      "title": "הגאדג'ט שרוצה להחליף את השעונים החכמים - גלובס",
+      "category": "Other",
+      "source": "www.globes.co.il",
+      "score": 3750,
+      "summary": "מתגוננים מהקור משפחה מציצה מחלון מכוסה ביריעת פלסטיק להגנה מפני הקור. קשמיר ההודית, השבוע / צילום: Reuters, Sharafat Ali"
+    },
+    {
+      "title": "2nd February – Threat Intelligence Report - Check Point Research",
+      "category": "Incidents & Vulns",
+      "source": "research.checkpoint.com",
+      "score": 896,
+      "summary": "For the latest discoveries in cyber research for the week of 2nd February, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES MicroWorld Technologies, maker of eScan antivirus, has suffered a supply-chain compromise."
+    },
+    {
+      "title": "9th February – Threat Intelligence Report - Check Point Research",
+      "category": "Incidents & Vulns",
+      "source": "research.checkpoint.com",
+      "score": 841,
+      "summary": "For the latest discoveries in cyber research for the week of 9th February, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Romania’s national oil pipeline operator, Conpet, has suffered a cyberattack that disrupted its IT systems and took its website offline."
+    },
+    {
+      "title": "26th January – Threat Intelligence Report - Check Point Research",
+      "category": "Incidents & Vulns",
+      "source": "research.checkpoint.com",
+      "score": 836,
+      "summary": "For the latest discoveries in cyber research for the week of 26th January, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES RansomHub ransomware group has claimed responsibility for a cyber-attack on Luxshare, an electronics manufacturer of Apple, Nvidia, LG, Tesla, and others."
+    },
+    {
+      "title": "Google News",
+      "category": "Other",
+      "source": "news.google.com",
+      "score": 625,
+      "summary": ""
+    }
+  ]
+}
