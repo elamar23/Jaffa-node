@@ -1,0 +1,5 @@
+# Track only sanitized public artifacts
+/*
+!.gitignore
+!public/
+!public/**
